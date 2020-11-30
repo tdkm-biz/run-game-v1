@@ -1,6 +1,3 @@
-
-console.log("hellooo!")
-
 import * as phina from './lib/phina.min.js';
 
 // phina.js をグローバル領域に展開
